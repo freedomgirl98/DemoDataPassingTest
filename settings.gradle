@@ -1,0 +1,2 @@
+rootProject.name='Demo Data Passing Test'
+include ':app'
